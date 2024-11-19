@@ -23,7 +23,6 @@ def main():
         base_url=BASE_URL,
         headers=HEADERS,
     )
-    # asyncio.run(parser.filter_working_proxies())
     asyncio.run(parser.run([category for category in CATEGORIES]))
 
 
