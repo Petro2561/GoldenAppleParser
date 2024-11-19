@@ -3,12 +3,18 @@
 ## Запуск
 
 Клонируем репозиторий 
-```https://github.com/Petro2561/GoldenAppleParser.git```
+```
+https://github.com/Petro2561/GoldenAppleParser.git
+```
 Создаем виртуальное окружение, активируем его
 Устанавливаем зависимости:
- ```pip install -r requirements.txt```
+ ```
+ pip install -r requirements.txt
+```
 Запускаем парсер командой:
-``` python main.py ```
+```
+python main.py 
+```
 
 ## Алгоритм работы
 
