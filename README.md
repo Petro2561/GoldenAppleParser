@@ -18,6 +18,8 @@ https://github.com/Petro2561/GoldenAppleParser.git
 python main.py 
 ```
 
+Добавить свои прокси в файле settings.py или попробовать с имеющимися прокси.
+
 ## Алгоритм работы программы
 
 1. Отфильтровываем работающие прокси. Прокси брал с сайта https://best-proxies.ru/
