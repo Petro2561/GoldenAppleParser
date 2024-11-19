@@ -30,5 +30,5 @@ python main.py
 Логи после запуска можно посмотреть в файле parser.log
 
 ## Tecnhologies:
--aiofiles
--aiohttp
+- aiofiles
+- aiohttp
