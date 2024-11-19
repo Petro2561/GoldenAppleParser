@@ -33,6 +33,10 @@ python main.py
 Результат парсинга можно посмотреть в файле products_example.jsonl.    
 Логи после запуска можно посмотреть в файле parser.log.  
 
+## Как улучшить
+
+Получать и обновлять прокси через API
+
 ## Tecnhologies:
 - aiofiles
 - aiohttp
